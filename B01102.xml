@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The life of Ipomydon]</title>
+            <title>Life of Ipomydon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1522</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01102</idno>
+            <idno type="STC">STC 5732.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[18]</idno>
+            <idno type="EEBO-CITATION">99891402</idno>
+            <idno type="PROQUEST">ocm99891402</idno>
+            <idno type="VID">182174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182174)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The life of Ipomydon]</title>
+                  <title>Life of Ipomydon.</title>
+                  <author>Copland, Robert, fl. 1508-1547.</author>
+               </titleStmt>
+               <extent>[2+] leaves : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Wynkyn de Worde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1522]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition of: The life of Ipomydon.</note>
+                  <note>An adaptation of: Hue of Rotelande. Cf. STC.</note>
+                  <note>Imprint from STC.</note>
+                  <note>In this ed. the last line of recto has: "seruyse."</note>
+                  <note>In verse.</note>
+                  <note>Formerly STC 14128.</note>
+                  <note>Fragment; 2 p. only.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hue, --  de Rotelande, fl. 1170-1190. --  Ipomodon --  Adaptations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="fragmentary_poem">
+            <pb facs="tcp:182174:1"/>
+            <!-- PDF PAGE 10 -->
+            <l>
+               <seg rend="decorInit">O</seg> Myghty fader in heuen on hye</l>
+            <l>One god and perſones thre</l>
+            <l>That made bothe daye &amp; nyght</l>
+            <l>And after as it was thy wyll</l>
+            <l>Thy nowne ſone thou ſente vs tyll</l>
+            <l>In a mayden to lyght</l>
+            <l>Syth the Iewes that were wylde</l>
+            <l>Hanged hym that was ſo mylde</l>
+            <l>And to dethe hym dyght</l>
+            <l>Whan he was deed the ſothe to ſaye</l>
+            <l>To lyfe he roſe on the thyrde daye</l>
+            <l>Thorughe hys owne myght</l>
+            <l>Then to helle he wente anone</l>
+            <l>And toke out ſoules many one</l>
+            <l>Out of that holde he hent</l>
+            <l>Maugre the fendes that were bolde</l>
+            <l>He toke the pryſoners out of holde</l>
+            <l>With them to heuen he wente</l>
+            <l>On his faders ryght hande he hym ſette</l>
+            <l>That all ſholde knowe withouten lette</l>
+            <l>That he was omnypotente</l>
+            <l>And after wyſdome he was ſent</l>
+            <l>That all ſholde kepe his commaundemen</l>
+            <l>And for to byleue in hym verray</l>
+            <l>That is our ſauyoure</l>
+            <l>That borne was of that blyſſed floure</l>
+            <l>That hyght Mary I ſaye</l>
+            <l>That ſhall vs deme withouten myſſe</l>
+            <l>Some to payne and ſome to blyſſe</l>
+            <l>It drede full domes daye</l>
+            <l>
+               <pb facs="tcp:182174:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->
+The lady commaun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed anone ſoone</l>
+            <l>That the gates were vndone</l>
+            <l>And brynge them all before me</l>
+            <l>For well at eaſe ſhall they be</l>
+            <l>They toke theyr pages horſe and all</l>
+            <l>Theſe two men wente in to the hall</l>
+            <l>Ipomydon on knees hym ſet</l>
+            <l>And the lady fayre he gret</l>
+            <l>I am a man of ſtraunge countre</l>
+            <l>And praye you yf it your wyll be</l>
+            <l>That I myght dwell with you this yere</l>
+            <l>Of your nurture for to lere</l>
+            <l>I am come out of ferre lande</l>
+            <l>For I herde tell before hande</l>
+            <l>Of your nurture and your ſeruyſe</l>
+            <l>Is holden of ſo grete empryſe</l>
+            <l>I praye you that I may dwell here</l>
+            <l>Some of your ſeruyce for to lere</l>
+            <l>The lady behelde Ipomydan</l>
+            <l>And ſemed well a gentyll man</l>
+            <l>She knewe none ſuche in all her lande</l>
+            <l>So goodly a man and well farande</l>
+            <l>She ſawe alſo by his nurture</l>
+            <l>He was a man of grete valure</l>
+            <l>She caſt full ſoone in her thought</l>
+            <l>That for no ſeruyſe came he nought</l>
+            <l>But it was worſhyp her vnto</l>
+            <l>In her ſeruyſe hym to do</l>
+            <l>
+               <pb facs="tcp:182174:3"/>
+               <!-- PDF PAGE 12 -->
+To <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yne and Ioye for aye</l>
+            <l>Now Iheſu as thou bought vs dere</l>
+            <l>Gyue them Ioye this geſt wyll here</l>
+            <l>And herken on a ryght</l>
+            <l>Some men loueth to here tell</l>
+            <l>Of doughty knyghtes that were fell</l>
+            <l>And ſome of ladyes bryght</l>
+            <l>And ſome myracles that are tolde</l>
+            <l>And ſome of venterous knyghtes olde</l>
+            <l>That for our lorde dyde fyght</l>
+            <l>As Cherles dyde that noble kynge</l>
+            <l>That hethen downe dyde brynge</l>
+            <l>Thrughe the helpe of god almyghty</l>
+            <l>He wanne fro the hethen houndes</l>
+            <l>The ſpere and nayles of cryſtes wounds</l>
+            <l>And alſo the croune of thorne</l>
+            <l>And many a ryche relyke mo</l>
+            <l>Maugre of them he wanne alſo</l>
+            <l>And kylled them euen and morne</l>
+            <l>The turkes and the paynyms bolde</l>
+            <l>He felled doune many a folde</l>
+            <l>Durſt none ſtande hym beforne</l>
+            <l>Charles gan them ſo affraye</l>
+            <l>That the catyues myght curſe the daye</l>
+            <l>And the tyme that they were borne</l>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
